@@ -66,14 +66,43 @@ export const MainNav = [
   // },
   {
     icon: "pe-7s-browser",
-    label: "Pages",
+    label: "User_Management",
     to: "#/user-management",
   },
   {
     icon: "pe-7s-browser",
-    label: "My Account",
-    to: "#/my-account",
+    label: "Pages",
+    to: "#/pages",
+  }, {
+    icon: "pe-7s-browser",
+    label: "Content",
+    to: "#/content",
+  }, {
+    icon: "pe-7s-browser",
+    label: "Agent",
+    to: "#/agent",
+  }, {
+    icon: "pe-7s-browser",
+    label: "Easy Help",
+    to: "#/easy",
+  }, {
+    icon: "pe-7s-browser",
+    label: "Form Type",
+    to: "#/form_type",
+  }, {
+    icon: "pe-7s-browser",
+    label: "Phrases",
+    to: "#/phrases",
+  }, {
+    icon: "pe-7s-browser",
+    label: "LOB",
+    to: "#/lob",
   },
+  // {
+  //   icon: "pe-7s-browser",
+  //   label: "My Account",
+  //   to: "#/my-account",
+  // },
   // {
   //   icon: "pe-7s-plugin",
   //   label: "Applications",
