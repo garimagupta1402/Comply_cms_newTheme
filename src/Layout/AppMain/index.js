@@ -28,7 +28,7 @@ const Lob = lazy(() => import("../../Administrator/Lob/Lob"));
 const Lob_details = lazy(() => import("../../Administrator/Lob/lob_details"));
 
 
-// const UserManagement = lazy(() => import("../../Pages/UserManagement/UserManagement"));
+const UserManagement = lazy(() => import("../../Pages/UserManagement/UserManagement"));
 
 // const AddUser = lazy(() => import("../../Pages/UserManagement/AddUser"));
 // const MyAccount = lazy(() => import("../../Pages/MyAccount/myAccount"));
@@ -236,7 +236,7 @@ const AppMain = () => {
                     </div>
                 </div>
             }>
-                <Route path="/user-management" component={UserManagement}/>
+                <Route path="/lob_details" component={Lob_details}/>
             </Suspense>
             <Suspense fallback={
                 <div className="loader-container">
