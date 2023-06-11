@@ -10,7 +10,7 @@ import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import { EditorState } from "draft-js";
 import "bootstrap/dist/css/bootstrap.css";
 import RemoveCircleOutlineOutlinedIcon from "@mui/icons-material/RemoveCircleOutlineOutlined";
-import ControlPointOutlinedIcon from "@mui/icons-material/ControlPointOutlined";
+import ControlPointOutlinedIcon from "@mui/icons-material/ControlPointOutlined"
 import { Editor } from "react-draft-wysiwyg";
 import {
   TextField,
