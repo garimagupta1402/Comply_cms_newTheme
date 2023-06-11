@@ -37,7 +37,7 @@ import "./index.scss";
 
 // Layout
 
-import AppHeader from "../../../Layout/AppHeader/";
+import AppHeader from "../../../Layout/AppHeader/"
 import AppSidebar from "../../../Layout/AppSidebar/";
 import AppFooter from "../../../Layout/AppFooter/";
 
