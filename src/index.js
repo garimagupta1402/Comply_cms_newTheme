@@ -7,10 +7,9 @@ import * as serviceWorker from "./serviceWorker";
 import { HashRouter } from "react-router-dom";
 import "./assets/base.scss";
 import Main from "./DemoPages/Main";
-import configureStore from "./config/configureStore";
 import { Provider } from "react-redux";
+import store from "./store";
 
-const store = configureStore();
 const rootElement = document.getElementById("root");
 
 const renderApp = (Component) => {
