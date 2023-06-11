@@ -60,7 +60,7 @@ function UserManagement({ match }) {
     } else setOpen(val);
   };
   useEffect(() => {
-    dispatch(getAllPages());
+    // dispatch(getAllPages());
   }, [dispatch]);
   return (
     <Fragment>

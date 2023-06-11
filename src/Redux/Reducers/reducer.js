@@ -10,3 +10,4 @@ export const getAllPagesReducer = (state = initialState, action) => {
       return state;
   }
 };
+   
