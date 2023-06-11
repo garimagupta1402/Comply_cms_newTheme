@@ -8,7 +8,7 @@ import DeleteIcon from "@mui/icons-material/Delete";
 import FormLabel from "@mui/material/FormLabel";
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import { EditorState } from "draft-js";
-import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap/dist/css/bootstrap.css"
 import RemoveCircleOutlineOutlinedIcon from "@mui/icons-material/RemoveCircleOutlineOutlined";
 import ControlPointOutlinedIcon from "@mui/icons-material/ControlPointOutlined"
 import { Editor } from "react-draft-wysiwyg";
