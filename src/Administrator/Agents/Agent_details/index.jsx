@@ -15,7 +15,7 @@ import { Editor } from "react-draft-wysiwyg";
 import {
   TextField,
   Typography,
-  Collapse,
+  Collapse,  
   CardHeader,
   IconButton,
   CardContent,
