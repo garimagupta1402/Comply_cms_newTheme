@@ -6,7 +6,7 @@ import FormControl from "@mui/material/FormControl";
 import DeleteIcon from "@mui/icons-material/Delete";
 import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import { EditorState } from "draft-js";
-import "bootstrap/dist/css/bootstrap.css"
+import "bootstrap/dist/css/bootstrap.css";
 import RemoveCircleOutlineOutlinedIcon from "@mui/icons-material/RemoveCircleOutlineOutlined";
 import ControlPointOutlinedIcon from "@mui/icons-material/ControlPointOutlined"
 import { Editor } from "react-draft-wysiwyg";
@@ -27,7 +27,6 @@ import {
   Button,
 } from "@mui/material";
 import "./index.scss";
-import { getAllPages } from "../../../Redux/Actions/action";
 // Charts
 
 // import ChartsSparklines1 from "./Sparklines1/";
