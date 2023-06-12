@@ -13,7 +13,7 @@ class AppFooter extends React.Component {
             </div>
             <div className="app-footer-right">
               <MegaMenuFooter />
-            </div>
+            </div> 
           </div>
         </div>
       </Fragment>
