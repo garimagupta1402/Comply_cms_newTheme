@@ -1,7 +1,7 @@
 import ThemeOptions from "./ThemeOptions";
 
-const reducer = {
+const Reducer = {
   ThemeOptions,
 };
 
-export default reducer;
+export default Reducer;
